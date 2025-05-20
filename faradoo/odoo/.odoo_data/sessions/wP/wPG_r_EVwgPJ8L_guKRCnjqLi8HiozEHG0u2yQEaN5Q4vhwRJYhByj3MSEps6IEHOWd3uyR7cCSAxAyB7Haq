@@ -1,0 +1,1 @@
+{"context": {"lang": "fa_IR", "tz": "Asia/Tehran", "uid": 2}, "db": "test", "debug": "1", "login": "test@test.com", "uid": 2, "session_token": "4affda231897298c8d0ae1e5ac1de4acc95b289c51a225de0a8c24bf49ec9815", "_trace": [{"platform": "linux", "browser": "firefox", "ip_address": "127.0.0.1", "first_activity": 1747647827, "last_activity": 1747647827}]}
